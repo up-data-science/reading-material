@@ -11,6 +11,10 @@ Comprehensive Data Science Guide (questions asked in interviews)
   https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778
 
 
+Data Sets:
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+
 
 Tools: 
 
