@@ -9,3 +9,10 @@ Data Science Machine Learning Job Interview Guide
 
 Comprehensive Data Science Guide (questions asked in interviews)
   https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778
+
+
+
+Tools: 
+
+Automated Feature Engineering in Python:
+  https://www.featuretools.com/
