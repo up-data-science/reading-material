@@ -4,6 +4,8 @@ Books, articles, papers etc. about Data Science.
 
 Links to articles: 
 
+Job Interviews: 
+
 Data Science Machine Learning Job Interview Guide
   https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778
 
@@ -13,6 +15,12 @@ Comprehensive Data Science Guide (questions asked in interviews)
 
 How does an artificial neural network?
   https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
+
+Statistics: 
+
+Different Kinds of Statistical Tests
+  https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html
+
 
 Data Sets:
 
