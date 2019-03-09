@@ -15,12 +15,12 @@ Comprehensive Data Science Guide (questions asked in interviews)
 
 Stack Exchange / Overflow questions: 
 
-Equality of t-test and Anova
+* Equality of t-test and Anova
   - https://stats.stackexchange.com/questions/1637/if-the-t-test-and-the-anova-for-two-groups-are-equivalent-why-arent-their-assu
-Anova is Linear Regression 
+* Anova is Linear Regression 
   - https://stats.stackexchange.com/questions/175246/why-is-anova-equivalent-to-linear-regression
 
-How does an artificial neural network work?
+* How does an artificial neural network work?
   - https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
 
 
