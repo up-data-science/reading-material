@@ -28,12 +28,12 @@ How does an artificial neural network work?
 
 Statistics: 
 
-  - Kinds of Statistical Tests
+  * Statistical Tests
     - https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html
 
     - https://en.wikipedia.org/wiki/Location_test
 
-  - Understanding t-tests:
+   -Understanding t-tests:
     - http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
   
 
@@ -44,5 +44,5 @@ Data Sets:
 
 Tools: 
 
-  - Automated Feature Engineering in Python:
+  * Automated Feature Engineering in Python:
     - https://www.featuretools.com/
