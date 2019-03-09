@@ -32,7 +32,7 @@ Statistics:
 
     - https://en.wikipedia.org/wiki/Location_test
 
-   -Understanding t-tests:
+  * Understanding t-tests:
     - http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
   
 
