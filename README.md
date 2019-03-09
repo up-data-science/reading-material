@@ -16,6 +16,12 @@ Comprehensive Data Science Guide (questions asked in interviews)
 How does an artificial neural network?
   https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
 
+
+Stack Exchange / Overflow questions: 
+t-test and Anova
+  https://stats.stackexchange.com/questions/1637/if-the-t-test-and-the-anova-for-two-groups-are-equivalent-why-arent-their-assu
+
+
 Statistics: 
 
 Different Kinds of Statistical Tests
