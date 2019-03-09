@@ -2,7 +2,6 @@
 Books, articles, papers etc. about Data Science.
 
 
-Links to articles: 
 
 Job Interviews: 
 
