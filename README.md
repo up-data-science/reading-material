@@ -39,6 +39,9 @@ Statistics:
   * Understanding t-tests:
     - http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
   
+<br/><br/> 
+Visualization:
+  - Tukey test visualized https://www.r-graph-gallery.com/84-tukey-test/
 <br/><br/>
 Data Sets:
 
