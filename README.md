@@ -6,6 +6,7 @@ Roadmap to Data Science: <br/>
   - as a map, with resources: https://github.com/MrMimic/data-scientist-roadmap
   - as an article: https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff
   
+  <br/><br/>
 Job Interviews: 
 
 Data Science Machine Learning Job Interview Guide
@@ -15,7 +16,7 @@ Comprehensive Data Science Guide (questions asked in interviews)
   - https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
   
 
-
+<br/><br/>
 Stack Exchange / Overflow questions: 
 
 * Equality of t-test and Anova
