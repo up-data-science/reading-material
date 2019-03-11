@@ -1,7 +1,7 @@
 # reading-material
 Books, articles, papers etc. about Data Science.
 
-Roadmap to Data Science: \
+Roadmap to Data Science: <br/>
 
   - as a map, with resources: https://github.com/MrMimic/data-scientist-roadmap
   - as an article: https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff
