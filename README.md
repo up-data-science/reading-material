@@ -28,7 +28,7 @@ Stack Exchange / Overflow questions:
   - https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
 
 
-
+<br/><br/>
 Statistics: 
 
   * Statistical Tests
@@ -39,12 +39,12 @@ Statistics:
   * Understanding t-tests:
     - http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
   
-
+<br/><br/>
 Data Sets:
 
   - https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
-
+<br/><br/>
 Tools: 
 
   * Automated Feature Engineering in Python:
