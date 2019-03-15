@@ -36,8 +36,11 @@ Statistics:
 
     - https://en.wikipedia.org/wiki/Location_test
 
-  * Understanding t-tests:
-    - http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
+    - Understanding t-tests:
+      http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-1-sample-2-sample-and-paired-t-tests 
+  * Anova 
+   - https://www.quora.com/What-is-%E2%80%9Cexplained-variation%E2%80%9D-%E2%80%9Cunexplained-variation%E2%80%9D-%E2%80%9Ctotal-variation%E2%80%9D-using-regression-line
+  
   
 <br/><br/> 
 Visualization:
