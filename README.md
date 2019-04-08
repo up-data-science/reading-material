@@ -56,3 +56,6 @@ Tools:
 
   * Automated Feature Engineering in Python:
     - https://www.featuretools.com/
+
+  * Visualization tools
+    - http://www.visualisingdata.com/resources/
