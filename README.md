@@ -50,6 +50,10 @@ Visualization:
 Data Sets:
 
   - https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+  
+<br/><br/>
+Robust Machine Learning: 
+  - https://towardsdatascience.com/the-three-pillars-of-robust-machine-learning-specification-testing-robust-training-and-formal-51c1c6192f8
 
 <br/><br/>
 Tools: 
