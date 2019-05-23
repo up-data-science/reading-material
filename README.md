@@ -41,6 +41,10 @@ Statistics:
   * Anova 
    - https://www.quora.com/What-is-%E2%80%9Cexplained-variation%E2%80%9D-%E2%80%9Cunexplained-variation%E2%80%9D-%E2%80%9Ctotal-variation%E2%80%9D-using-regression-line
   
+ 
+<br/><br/>  
+Machine Learning:
+ * https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
   
 <br/><br/> 
 Visualization:
