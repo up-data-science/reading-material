@@ -43,8 +43,12 @@ Statistics:
   
  
 <br/><br/>  
-Machine Learning:
+Machine Learning in general:
  * https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
+
+<br/><br/>   
+Random Forests: 
+ * https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
   
 <br/><br/> 
 Visualization:
