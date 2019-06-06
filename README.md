@@ -50,7 +50,7 @@ Machine Learning in general:
 <br/><br/> 
 Regularization
  * Bayesian Interpretation of Regularization 
-  - http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/
+  http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/
 
 <br/><br/>   
 Random Forests: 
