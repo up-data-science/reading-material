@@ -44,7 +44,13 @@ Statistics:
  
 <br/><br/>  
 Machine Learning in general:
- * https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
+ * Hyperparamters
+  - https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
+
+<br/><br/> 
+Regularization
+ * Bayesian Interpretation of Regularization 
+  - http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/
 
 <br/><br/>   
 Random Forests: 
