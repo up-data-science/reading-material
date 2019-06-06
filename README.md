@@ -44,12 +44,12 @@ Statistics:
  
 <br/><br/>  
 Machine Learning in general:
- * Hyperparamters
-  - https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
+ * Hyperparameters:
+  https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
 
 <br/><br/> 
 Regularization
- * Bayesian Interpretation of Regularization 
+ -  Bayesian Interpretation of Regularization
   http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/
 
 <br/><br/>   
